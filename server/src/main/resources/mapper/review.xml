@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper
+	namespace="com.ssafy.apartment.model.mapper.ReviewMapper">
+
+	<insert id="addReview" parameterType="ReviewDto">
+		insert into salereview(userId, aptCode, rating, content )
+		values(#{userId},#{aptCode},#{rating},#{content})
+	</insert>
+	
+	<select id="getReviewList" parameterType="string" resultType="ReviewDto">
+		select reviewNo,userId,aptCode,rating,content,registerTime
+		from salereview
+		where aptCode = #{aptCode}
+	</select>
+	
+	<select id="getMyReviewList" parameterType="string" resultType="ReviewDto">
+		select sr.reviewNo,sr.userId,sr.aptCode,sr.rating,sr.content,sr.registerTime, hi.apartmentName
+		from salereview as sr
+		join houseinfo as hi on sr.aptCode = hi.aptCode
+		where sr.userId = #{uesrId}
+	</select>
+	
+	<select id="getOneReview" parameterType="ReviewDto" resultType="ReviewDto">
+		select reviewNo,userId,aptCode,rating,content,registerTime
+		from salereview
+		where aptCode = #{aptCode} and content = #{content} and rating=#{rating}
+	</select>
+	
+	<delete id="deleteReview" parameterType="string">
+		delete
+		from salereview
+		where reviewNo = #{reviewNo}
+	</delete>
+</mapper>
