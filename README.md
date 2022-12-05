@@ -112,7 +112,7 @@
 
 **✅ 공지사항 등록 및 키워드 검색**
 
-![Untitled](gifs/changeHeaderAdminLogin.gif)
+![Untitled](gifs/regiNoticeKeySearch.gif)
 
 **✅ 동검색**
 
@@ -132,7 +132,7 @@
 
 **✅ 관리자 로그인 시 헤더변경**
 
-![Untitled](gifs/regiNoticeKeySearch.gif)
+![Untitled](gifs/changeHeaderAdminLogin.gif)
 
 **✅ 리뷰등록관리**
 
