@@ -104,4 +104,4 @@
 
 **✅ 회원가입**
 
-![Untitled](gifs/.gif)
+![Untitled](gifs/회원가입.gif)
