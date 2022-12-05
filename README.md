@@ -21,8 +21,17 @@
 ## 기술 스택
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/API-Kakao_Map-red?style=flat"> 
+  <img src="https://img.shields.io/badge/API-Kakao_REST-6DB33F?style=flat"> 
+  <img src="https://img.shields.io/badge/Library-vue_Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Language-Java-007396?style=flat&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Database-MySql-F80000?style=flat&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Framework-Vue-D22128?style=flat&logo=vue.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Framework-SpringFramework-6DB33F?style=flat&logo=spring&logoColor=white">
 
-[https://embed.notion-tools.com/block/html/?c=%3Cp%20align%3D%22center%22%3E%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FAPI-Kakao_Map-red%3Fstyle%3Dflat%22%3E%20%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FAPI-Kakao_REST-6DB33F%3Fstyle%3Dflat%22%3E%20%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FLibrary-vue_Bootstrap-563D7C%3Fstyle%3Dflat%26logo%3Dbootstrap%26logoColor%3Dwhite%22%3E%20%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FLanguage-Java-007396%3Fstyle%3Dflat%26logo%3Djava%26logoColor%3Dwhite%22%3E%20%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FLanguage-JavaScript-F7DF1E%3Fstyle%3Dflat%26logo%3Djavascript%26logoColor%3Dwhite%22%3E%20%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FDatabase-MySql-F80000%3Fstyle%3Dflat%26logo%3Dmysql%26logoColor%3Dwhite%22%3E%20%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FFramework-Vue-D22128%3Fstyle%3Dflat%26logo%3Dvue.js%26logoColor%3Dwhite%22%3E%20%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FFramework-SpringFramework-6DB33F%3Fstyle%3Dflat%26logo%3Dspring%26logoColor%3Dwhite%22%3E%0A%0A%3C%2Fp%3Ent](https://embed.notion-tools.com/block/html/?c=%3Cp%20align%3D%22center%22%3E%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FAPI-Kakao_Map-red%3Fstyle%3Dflat%22%3E%20%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FAPI-Kakao_REST-6DB33F%3Fstyle%3Dflat%22%3E%20%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FLibrary-vue_Bootstrap-563D7C%3Fstyle%3Dflat%26logo%3Dbootstrap%26logoColor%3Dwhite%22%3E%20%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FLanguage-Java-007396%3Fstyle%3Dflat%26logo%3Djava%26logoColor%3Dwhite%22%3E%20%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FLanguage-JavaScript-F7DF1E%3Fstyle%3Dflat%26logo%3Djavascript%26logoColor%3Dwhite%22%3E%20%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FDatabase-MySql-F80000%3Fstyle%3Dflat%26logo%3Dmysql%26logoColor%3Dwhite%22%3E%20%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FFramework-Vue-D22128%3Fstyle%3Dflat%26logo%3Dvue.js%26logoColor%3Dwhite%22%3E%20%0A%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FFramework-SpringFramework-6DB33F%3Fstyle%3Dflat%26logo%3Dspring%26logoColor%3Dwhite%22%3E%0A%0A%3C%2Fp%3Ent)
+</p>
 
 ## 팀원
 
