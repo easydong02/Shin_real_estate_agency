@@ -105,3 +105,43 @@
 **✅ 회원가입**
 
 ![Untitled](gifs/register.gif)
+
+**✅ 회원탈퇴**
+
+![Untitled](gifs/DelUser.gif)
+
+**✅ 공지사항 등록 및 키워드 검색**
+
+![Untitled](gifs/changeHeaderAdminLogin.gif)
+
+**✅ 동검색**
+
+![Untitled](gifs/dongSearch.gif)
+
+**✅ 비밀번호 찾기 및 로그**
+
+![Untitled](gifs/findPass.gif)
+
+**✅ 회원정보 수정 및 확**
+
+![Untitled](gifs/modiUser.gif)
+
+**✅ 관심매물등**
+
+![Untitled](gifs/regiInter.gif)
+
+**✅ 관리자 로그인 시 헤더변경**
+
+![Untitled](gifs/regiNoticeKeySearch.gif)
+
+**✅ 리뷰등록관리**
+
+![Untitled](gifs/regiReview.gif)
+
+**✅ 관리자회원관리**
+
+![Untitled](gifs/userControl.gif)
+
+**✅ 관심매물조회**
+
+![Untitled](gifs/viewInter.gif)
