@@ -4,6 +4,8 @@
 
 ## 목차
 
+
+
 ---
 
 ## 개요
@@ -37,7 +39,33 @@
 
 ---
 
-추후 추가
+<table>
+  <thead>
+    <tr>
+      <th>이름</th>
+      <th>역할</th>
+      <th>구현 기능</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">신도연</td>
+      <td rowspan="2">팀장</td>
+      <td>추후 추가</td>
+    </tr>
+    <tr>
+      <td>추후 추가</td>
+    </tr>
+    <tr>
+      <td rowspan="2">신동희</td>
+      <td rowspan="2">팀원</td>
+      <td>Back-End (북마크, 리뷰, 실거래가 등 REST API 설계) </td>
+    </tr>
+    <tr>
+      <td>Front-End (카카오맵 API 레이아웃 전반, 부동산 상세보기, 리뷰, 북마크, 마이페이지, 카카오 REST API)</td>
+    </tr>
+  </tbody>
+</table>
 
 ## DataBase 설계
 
